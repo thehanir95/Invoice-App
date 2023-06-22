@@ -1,6 +1,7 @@
 <template>
   <div class="header-section">
     <div class="title-section">
+      <h1>Test Tags Pull</h1>
       <h1 class="title-section-main">Invoices</h1>
       <h4 class="title-section-sub">There are 4 total invoices</h4>
     </div>
